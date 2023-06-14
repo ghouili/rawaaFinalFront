@@ -1,0 +1,17 @@
+.company__modal{
+    position: absolute;
+    top: 20%;
+    left:30%;
+    width: 40vw;
+     /* ff 3.6+ */
+    
+    /* height: ; */
+}
+
+.code__Modal{
+    position: absolute;
+    top: 60%;
+    left:30%;
+    width: 40vw;  
+   
+}
